@@ -170,3 +170,4 @@ void quitORnot(void)
         exit(0);
     }
 }
+// Thanks for reading.

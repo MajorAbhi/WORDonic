@@ -1,7 +1,8 @@
-# WORDonic
-# A Digital Pocket Diary.
+📕 WORDonic - A Digital Pocket Diary.
 
-I created this Little Digital pocket diary for My first year Mini project at the university. It requires high level computer science knowledge so please don't disturb me by constantly asking how did I made this.
+I created this Little Digital pocket diary for My first year Mini project at the university.
+Simply write anything and it will save it as .txt file with the present date as the file name.
+You can even read the previously written diary.
 
-Feel free to suggest further improvements and perhaps we could later turn this into a product and become millionaire some day.
-A Shoutout to stackoverflow and it's users for everything.
+Feel free to suggest further improvements.
+A Shoutout to stackoverflow for the help.

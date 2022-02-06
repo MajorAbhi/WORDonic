@@ -5,4 +5,5 @@ Simply write anything and it will save it as .txt file with the present date as 
 You can even read the previously written diary.
 
 Feel free to suggest further improvements.
-A Shoutout to stackoverflow for the help.
+
+🔊 A Shoutout to stackoverflow for the help.
